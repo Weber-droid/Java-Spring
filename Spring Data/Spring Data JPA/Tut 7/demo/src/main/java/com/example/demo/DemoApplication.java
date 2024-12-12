@@ -14,4 +14,8 @@ public class DemoApplication {
 		System.out.println("Hey");
 	}
 
+	public greet_name() {
+		System.out.println("Hey");
+	}
+
 }
