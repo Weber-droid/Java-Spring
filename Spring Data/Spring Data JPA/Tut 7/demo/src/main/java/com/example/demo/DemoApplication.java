@@ -14,8 +14,5 @@ public class DemoApplication {
 		System.out.println("Hey");
 	}
 
-	public greet() {
-		System.out.println("Hey");
-	}
 
 }
