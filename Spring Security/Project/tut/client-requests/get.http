@@ -1,0 +1,2 @@
+GET http://localhost:8080/ 
+Authorization: Basic d853998a-5065-4f2a-939b-3b2379222fad
